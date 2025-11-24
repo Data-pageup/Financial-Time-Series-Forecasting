@@ -17,7 +17,7 @@ The analysis shows that a rigorously validated **Linear Regression model outperf
 * Statistical validation using the **Diebold–Mariano test**.
 * Backtesting of signal-based trading strategies including cumulative return, Sharpe ratio, drawdown, and win rate.
 * Production-compatible pipeline design with fast inference and retraining capability.
-
+ 
 ---
 
 ## Dataset
