@@ -98,7 +98,6 @@ Models tested:
 * No macroeconomic or regime-switching features
 * Backtests assume zero transaction costs
 
-
 ---
 
 ## Future Work
