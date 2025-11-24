@@ -1,4 +1,3 @@
-
 # Financial Time-Series Forecasting: TESLA Daily Return Prediction
 
 ## Overview
